@@ -1,4 +1,4 @@
 .env
-**/storage/
-**/myenv/
-**/olddata/
+storage/
+myenv/
+olddata/
