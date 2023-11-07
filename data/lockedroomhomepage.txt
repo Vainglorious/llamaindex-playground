@@ -1,0 +1,849 @@
+
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml">
+<!--<![endif]-->
+<head>
+
+
+	<meta charset="UTF-8" />
+	<meta name="description" content="All 3 of our Locked Room Calgary escape room facilities are open. Book a Locked Room package for your corporate or holiday event today!" />		
+	
+	<link rel="pingback" href="https://www.thelockedroom.ca/xmlrpc.php" />
+
+		<!--[if lt IE 9]>
+	<script src="https://www.thelockedroom.ca/wp-content/themes/Divi/js/html5.js" type="text/javascript"></script>
+	<![endif]-->
+
+	<script type="text/javascript">
+		document.documentElement.className = 'js';
+	</script>
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '699125720190662');
+fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=699125720190662&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+<script type="application/ld+json">{"@context":"http:\/\/schema.org\/","@type":"Organization","name":"The Locked Room","logo":"https:\/\/www.thelockedroom.ca\/wp-content\/uploads\/2016\/09\/Locked_room_logo.jpg","url":"https:\/\/www.thelockedroom.ca\/","description":"The Locked Room is Calgary's first real-life interactive escape room. Teams of 2-10 people solve puzzles in order to escape the room.","foundingDate":"August, 2014","foundingLocation":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"Calgary","addressRegion":"AB","addressCountry":"CA"}},"legalName":"The Locked Room LTD.","sameAs":["https:\/\/www.facebook.com\/lockedroomcalgary","https:\/\/twitter.com\/lockedroomyyc","https:\/\/instagram.com\/lockedroomyyc","https:\/\/www.linkedin.com\/company\/the-locked-room","https:\/\/www.youtube.com\/user\/thelockedroomcanada"],"contactPoint":{"@type":"ContactPoint","telephone":"+15873872337","email":"bookings@thelockedroom.ca","contactType":"Customer Service"}}</script>
+	<title>The Locked Room Calgary: Online Escape Rooms now available!</title>
+<link rel='dns-prefetch' href='//www.thelockedroom.ca' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title=" &raquo; Feed" href="https://www.thelockedroom.ca/feed/" />
+<link rel="alternate" type="application/rss+xml" title=" &raquo; Comments Feed" href="https://www.thelockedroom.ca/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title=" &raquo; The Locked Room Calgary | Interactive Escape Rooms Comments Feed" href="https://www.thelockedroom.ca/homepage/feed/" />
+<meta property="fb:admins" content="722683311127292"/><meta property="og:title" content="The Locked Room Calgary | Interactive Escape Rooms"/><meta property="og:type" content="article"/><meta property="og:url" content="https://www.thelockedroom.ca/"/><meta property="og:site_name" content="The Locked Room: Calgary's Original Escape Room"/><meta property="og:description" content="The Locked Room is Calgary&#039;s original escape room experience. 3 locations and 13 different escape adventures. Book your escape today!"/><meta property="og:image" content="https://www.thelockedroom.ca/wp-content/uploads/2016/08/Sinister_Study_People_05.jpg"/>		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.thelockedroom.ca\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.27"}};
+			!function(t,a,e){var r,n,i,o=a.createElement("canvas"),l=o.getContext&&o.getContext("2d");function c(t){var e=a.createElement("script");e.src=t,e.defer=e.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(e)}for(i=Array("flag","emoji4"),e.supports={everything:!0,everythingExceptFlag:!0},n=0;n<i.length;n++)e.supports[i[n]]=function(t){var e,a=String.fromCharCode;if(!l||!l.fillText)return!1;switch(l.clearRect(0,0,o.width,o.height),l.textBaseline="top",l.font="600 32px Arial",t){case"flag":return(l.fillText(a(55356,56826,55356,56819),0,0),o.toDataURL().length<3e3)?!1:(l.clearRect(0,0,o.width,o.height),l.fillText(a(55356,57331,65039,8205,55356,57096),0,0),e=o.toDataURL(),l.clearRect(0,0,o.width,o.height),l.fillText(a(55356,57331,55356,57096),0,0),e!==o.toDataURL());case"emoji4":return l.fillText(a(55357,56425,55356,57341,8205,55357,56507),0,0),e=o.toDataURL(),l.clearRect(0,0,o.width,o.height),l.fillText(a(55357,56425,55356,57341,55357,56507),0,0),e!==o.toDataURL()}return!1}(i[n]),e.supports.everything=e.supports.everything&&e.supports[i[n]],"flag"!==i[n]&&(e.supports.everythingExceptFlag=e.supports.everythingExceptFlag&&e.supports[i[n]]);e.supports.everythingExceptFlag=e.supports.everythingExceptFlag&&!e.supports.flag,e.DOMReady=!1,e.readyCallback=function(){e.DOMReady=!0},e.supports.everything||(r=function(){e.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",r,!1),t.addEventListener("load",r,!1)):(t.attachEvent("onload",r),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&e.readyCallback()})),(r=e.source||{}).concatemoji?c(r.concatemoji):r.wpemoji&&r.twemoji&&(c(r.twemoji),c(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<meta content="Divi Child Theme v.1.0.0" name="generator"/><style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='https://www.thelockedroom.ca/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.8' type='text/css' media='all' />
+<link rel='stylesheet' id='divi-fonts-css'  href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='divi-style-css-css'  href='https://www.thelockedroom.ca/wp-content/themes/Divi-Child/style.css?ver=1635466886' type='text/css' media='' />
+<link rel='stylesheet' id='et-shortcodes-css-css'  href='https://www.thelockedroom.ca/wp-content/themes/Divi/epanel/shortcodes/css/shortcodes.css?ver=3.0.34' type='text/css' media='all' />
+<link rel='stylesheet' id='mc4wp-form-basic-css'  href='https://www.thelockedroom.ca/wp-content/plugins/mailchimp-for-wp/assets/css/form-basic.min.css?ver=4.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='et-shortcodes-responsive-css-css'  href='https://www.thelockedroom.ca/wp-content/themes/Divi/epanel/shortcodes/css/shortcodes_responsive.css?ver=3.0.34' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css'  href='https://www.thelockedroom.ca/wp-content/themes/Divi/includes/builder/styles/magnific_popup.css?ver=3.0.34' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.thelockedroom.ca/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://www.thelockedroom.ca/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='https://www.thelockedroom.ca/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.thelockedroom.ca/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.thelockedroom.ca/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.7.27" />
+<link rel="canonical" href="https://www.thelockedroom.ca/" />
+<link rel='shortlink' href='https://www.thelockedroom.ca/' />
+<link rel="alternate" type="application/json+oembed" href="https://www.thelockedroom.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.thelockedroom.ca%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.thelockedroom.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.thelockedroom.ca%2F&#038;format=xml" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />		<style id="theme-customizer-css">
+					@media only screen and ( min-width: 767px ) {
+				body, .et_pb_column_1_2 .et_quote_content blockquote cite, .et_pb_column_1_2 .et_link_content a.et_link_main_url, .et_pb_column_1_3 .et_quote_content blockquote cite, .et_pb_column_3_8 .et_quote_content blockquote cite, .et_pb_column_1_4 .et_quote_content blockquote cite, .et_pb_blog_grid .et_quote_content blockquote cite, .et_pb_column_1_3 .et_link_content a.et_link_main_url, .et_pb_column_3_8 .et_link_content a.et_link_main_url, .et_pb_column_1_4 .et_link_content a.et_link_main_url, .et_pb_blog_grid .et_link_content a.et_link_main_url, body .et_pb_bg_layout_light .et_pb_post p,  body .et_pb_bg_layout_dark .et_pb_post p { font-size: 16px; }
+				.et_pb_slide_content, .et_pb_best_value { font-size: 18px; }
+			}
+																																				
+		
+							#main-footer { background-color: #4b4c4c; }
+														#footer-widgets .footer-widget li:before { top: 10.6px; }										
+		
+																														
+		@media only screen and ( min-width: 981px ) {
+																																																															
+					}
+					@media only screen and ( min-width: 1350px) {
+				.et_pb_row { padding: 27px 0; }
+				.et_pb_section { padding: 54px 0; }
+				.single.et_pb_pagebuilder_layout.et_full_width_page .et_post_meta_wrapper { padding-top: 81px; }
+				.et_pb_section.et_pb_section_first { padding-top: inherit; }
+				.et_pb_fullwidth_section { padding: 0; }
+			}
+		
+		@media only screen and ( max-width: 980px ) {
+																				}
+		@media only screen and ( max-width: 767px ) {
+														}
+	</style>
+
+	
+	
+	
+	<style id="module-customizer-css">
+			</style>
+
+	<link rel="shortcut icon" href="https://www.thelockedroom.ca/wp-content/uploads/2020/09/favicon.png" /><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-52889839-1', 'auto');
+  ga('require', 'linkid');
+  ga('send', 'pageview');
+
+</script>
+
+<!-- Global site tag (gtag.js) - AdWords: 949283421 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-949283421"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-949283421');
+</script>
+<link rel="icon" href="https://www.thelockedroom.ca/wp-content/uploads/2015/03/cropped-squareLogo-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="https://www.thelockedroom.ca/wp-content/uploads/2015/03/cropped-squareLogo-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://www.thelockedroom.ca/wp-content/uploads/2015/03/cropped-squareLogo-180x180.jpg" />
+<meta name="msapplication-TileImage" content="https://www.thelockedroom.ca/wp-content/uploads/2015/03/cropped-squareLogo-270x270.jpg" />
+</head>
+<body class="home page-template-default page page-id-78 et_pb_button_helper_class et_fixed_nav et_show_nav et_cover_background et_pb_gutter osx et_pb_gutters3 et_primary_nav_dropdown_animation_fade et_secondary_nav_dropdown_animation_fade et_pb_footer_columns_1_2__1_4 et_header_style_left et_pb_pagebuilder_layout et_right_sidebar et_divi_theme chrome">
+	<div id="page-container">
+
+	
+		<header id="main-header" data-height-onload="66">
+			<div class="container clearfix et_menu_container">
+							<div class="logo_container">
+					<span class="logo_helper"></span>
+					<a href="https://www.thelockedroom.ca/">
+						<img src="https://www.thelockedroom.ca/wp-content/uploads/2018/05/Grunge_Locked_Rooms_Logo.png" alt="" id="logo" data-height-percentage="54" />
+					</a>
+				</div>
+				<div id="et-top-navigation" data-height="66" data-fixed-height="40">
+					<nav id="top-menu-nav">
+					<ul id="top-menu" class="nav"><li id="menu-item-6208" class="nomobile nodesktop menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-has-children menu-item-6208"><a href="/">Home</a>
+<ul class="sub-menu">
+	<li id="menu-item-6233" class="nomobile nodesktop menu-item menu-item-type-custom menu-item-object-custom menu-item-6233"><a href="/escape-rooms">What is an Escape Room?</a></li>
+	<li id="menu-item-8267" class="nomobile nodesktop menu-item menu-item-type-custom menu-item-object-custom menu-item-8267"><a href="/choosinganescaperoom/">Choosing an Escape Room</a></li>
+	<li id="menu-item-132" class="nomobile nodesktop menu-item menu-item-type-custom menu-item-object-custom menu-item-132"><a href="/Frequently-Asked-Questions">FAQ</a></li>
+	<li id="menu-item-6383" class="nomobile nodesktop menu-item menu-item-type-custom menu-item-object-custom menu-item-6383"><a href="/press">In the Press</a></li>
+</ul>
+</li>
+<li id="menu-item-134" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-134"><a href="/Location">Locations</a>
+<ul class="sub-menu">
+	<li id="menu-item-6972" class="nomobile menu-item menu-item-type-custom menu-item-object-custom menu-item-6972"><a href="/northeast-calgary">Calgary Northeast</a></li>
+	<li id="menu-item-6973" class="nomobile menu-item menu-item-type-custom menu-item-object-custom menu-item-6973"><a href="/calgary-southland">Calgary Fairmount Dr.</a></li>
+	<li id="menu-item-6974" class="nomobile menu-item menu-item-type-custom menu-item-object-custom menu-item-6974"><a href="/southeast-calgary">Calgary Southeast</a></li>
+</ul>
+</li>
+<li id="menu-item-13044" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13044"><a href="/corporate-bookings">Teambuilding &#038; Events</a></li>
+<li id="menu-item-13319" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13319"><a href="https://www.thelockedroom.ca/gift-card/">Gift Cards</a></li>
+<li id="menu-item-13124" class="nomobile nodesktop menu-item menu-item-type-custom menu-item-object-custom menu-item-13124"><a href="/covid-19">Covid-19 Policy</a></li>
+<li id="menu-item-133" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-133"><a href="/Contact">Contact</a></li>
+<li id="menu-item-6210" class="Book_Button menu-item menu-item-type-custom menu-item-object-custom menu-item-6210"><a href="/bookings">Book An Escape Room</a></li>
+</ul>					</nav>
+
+					
+					
+					<div id="et_mobile_nav_menu">
+				<div class="mobile_nav closed">
+					<span class="select_page">Select Page</span>
+					<span class="mobile_menu_bar mobile_menu_bar_toggle"></span>
+				</div>
+			</div>				</div> <!-- #et-top-navigation -->
+			</div> <!-- .container -->
+			<div class="et_search_outer">
+				<div class="container et_search_form_container">
+					<form role="search" method="get" class="et-search-form" action="https://www.thelockedroom.ca/">
+					<input type="search" class="et-search-field" placeholder="Search &hellip;" value="" name="s" title="Search for:" />					</form>
+					<span class="et_close_search_field"></span>
+				</div>
+			</div>
+		</header> <!-- #main-header -->
+
+		<div id="et-main-area">
+<div id="main-content">
+
+
+			
+				<article id="post-78" class="post-78 page type-page status-publish has-post-thumbnail hentry">
+
+				
+					<div class="entry-content">
+					<div class="et_pb_section et_pb_fullwidth_section noTopPaddingSection et_pb_section_0 et_pb_with_background et_section_regular">
+				
+				
+					
+					<section class="et_pb_fullwidth_header et_pb_module et_pb_bg_layout_dark et_pb_text_align_center  et_pb_fullwidth_header_0">
+				
+				<div class="et_pb_fullwidth_header_container center">
+					<div class="header-content-container center">
+					<div class="header-content">
+						<img src="https://www.thelockedroom.ca/wp-content/uploads/2018/05/Grunge_Locked_Rooms_Logo_File.png" alt="The Locked Room" />
+						<h1>The Locked Room</h1>
+						<span class="et_pb_fullwidth_header_subhead">CALGARY'S ORIGINAL ESCAPE ROOM</span>
+						
+<p style="font-size: 20px;">Interactive Escape Rooms<br /> 3 Calgary Locations<br /> 12 Escape Rooms</p>
+
+						<a href="/bookings" class="et_pb_more_button et_pb_button et_pb_button_one">Book an Escape Room</a>
+					</div>
+				</div>
+					
+				</div>
+				<div class="et_pb_fullwidth_header_overlay"></div>
+				<div class="et_pb_fullwidth_header_scroll"></div>
+			</section>
+				
+			</div> <!-- .et_pb_section --><div class="et_pb_section  et_pb_section_1 et_pb_with_background et_section_regular">
+				
+				
+					
+					<div class=" et_pb_row et_pb_row_0">
+				
+				<div class="et_pb_column et_pb_column_4_4  et_pb_column_0">
+				
+				<div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_center  et_pb_text_0">
+				
+<h2 style="padding-top: 25px; padding-bottom: 0;">Check out our <span style="color: #0ec5ea;"><a href="birthday-promotions/" style="color: #0ec5ea;">Birthday Packages &#038; Promotions!</a></span></h2>
+
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column -->
+					
+			</div> <!-- .et_pb_row -->
+				
+			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_fullwidth_section noTopPaddingSection et_pb_section_2 et_pb_with_background et_section_regular">
+				
+				
+					
+					<section class="et_pb_fullwidth_header et_pb_fullscreen et_pb_module et_pb_bg_layout_dark et_pb_text_align_center  et_pb_fullwidth_header_1">
+				
+				<div class="et_pb_fullwidth_header_container center">
+					<div class="header-content-container center">
+					<div class="header-content">
+						
+						<h1>The Locked Room</h1>
+						<span class="et_pb_fullwidth_header_subhead">CALGARY'S ORIGINAL ESCAPE ROOM</span>
+						
+<p style="font-size: 20px;">Interactive Escape Rooms<br /> 3 Calgary Locations<br /> 12 Escape Rooms</p>
+
+						<a href="/bookings" class="et_pb_more_button et_pb_button et_pb_button_one">Book an Escape Room</a>
+					</div>
+				</div>
+					
+				</div>
+				<div class="et_pb_fullwidth_header_overlay"></div>
+				<div class="et_pb_fullwidth_header_scroll"></div>
+			</section>
+				
+			</div> <!-- .et_pb_section --><div class="et_pb_section  et_pb_section_3 et_pb_with_background et_section_regular">
+				
+				
+					
+					<div class=" et_pb_row et_pb_row_1">
+				
+				<div class="et_pb_column et_pb_column_4_4  et_pb_column_1">
+				
+				<div class="et_pb_text et_pb_module et_pb_bg_layout_dark et_pb_text_align_center  et_pb_text_1">
+				
+<h2 style="font-size: 38px; padding-top: 20px;">Calgary Escape Rooms</h2>
+<h3>3 Calgary Alberta Locked Room Locations</h3>
+
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column -->
+					
+			</div> <!-- .et_pb_row --><div class="desktopEscapeRooms et_pb_row et_pb_row_2">
+				
+				<div class="et_pb_column et_pb_column_1_3  et_pb_column_2">
+				
+				<div class="et_pb_text et_pb_module et_pb_bg_layout_dark et_pb_text_align_center  et_pb_text_2">
+				
+<h2 style="margin: 0; padding: 0;">Calgary Fairmount Dr.</h2>
+
+			</div> <!-- .et_pb_text --><div id="SouthlandLoc" class="et_pb_module et-waypoint et_pb_image et_pb_animation_left et_pb_image_0 et_always_center_on_mobile">
+				<a href="https://bookeo.com/lockedroom?category=3150MRX3YW1535044EEA5"><img src="https://www.thelockedroom.ca/wp-content/uploads/2019/07/04-TLR-SL.jpg" alt="" />
+			</a>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3  et_pb_column_3">
+				
+				<div class="et_pb_text et_pb_module et_pb_bg_layout_dark et_pb_text_align_center  et_pb_text_3">
+				
+<h2 style="margin: 0; padding: 0;">Calgary Southeast</h2>
+
+			</div> <!-- .et_pb_text --><div id="SoutheastLoc" class="et_pb_module et-waypoint et_pb_image et_pb_animation_left et_pb_image_1 et_always_center_on_mobile">
+				<a href="https://bookeo.com/lockedroom?category=3150JKF9371535047065E"><img src="https://www.thelockedroom.ca/wp-content/uploads/2019/07/04-TLR-SE.jpg" alt="" />
+			</a>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3  et_pb_column_4">
+				
+				<div class="et_pb_text et_pb_module et_pb_bg_layout_dark et_pb_text_align_center  et_pb_text_4">
+				
+<h2 style="margin: 0; padding: 0;">Calgary Northeast</h2>
+
+			</div> <!-- .et_pb_text --><div id="NortheastLoc" class="et_pb_module et-waypoint et_pb_image et_pb_animation_left et_pb_image_2 et_always_center_on_mobile">
+				<a href="https://bookeo.com/lockedroom?category=3150HWWCT414AD07C4C00"><img src="https://www.thelockedroom.ca/wp-content/uploads/2019/07/04-TLR-NE.jpg" alt="" />
+			</a>
+			</div>
+			</div> <!-- .et_pb_column -->
+					
+			</div> <!-- .et_pb_row --><div class=" et_pb_row et_pb_row_3">
+				
+				<div class="et_pb_column et_pb_column_4_4  et_pb_column_5">
+				
+				<div class="et_pb_text et_pb_module et_pb_bg_layout_dark et_pb_text_align_center  et_pb_text_5">
+				
+<h2 style="padding-top: 25px; padding-bottom: 0px; margin: 0;">Locked Room Pricing</h2>
+
+			</div> <!-- .et_pb_text --><div class="et_pb_module et-waypoint et_pb_image et_pb_animation_off et_pb_image_3 et_always_center_on_mobile">
+				<img src="https://www.thelockedroom.ca/wp-content/uploads/2023/10/2023-NEW_TLR_Tier_Pricing.png" alt="" />
+			
+			</div><div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_center  et_pb_text_6">
+				
+<p><a class="et_pb_promo_button et_pb_button" href="/bookings">Book Today</a></p>
+
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column -->
+					
+			</div> <!-- .et_pb_row -->
+				
+			</div> <!-- .et_pb_section --><div class="et_pb_section  et_pb_section_4 et_pb_with_background et_section_regular">
+				
+				
+					
+					<div class=" et_pb_row et_pb_row_4">
+				
+				<div class="et_pb_column et_pb_column_4_4  et_pb_column_6">
+				
+				<div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_center  et_pb_text_7">
+				
+<h2 style="margin-top: 30px;">Calgary Fairmount Dr.</h2>
+<h3 style="margin: 0; padding: 0;">9937 Fairmount Dr SE</h3>
+<p><a href="https://www.google.ca/maps/place/The+Locked+Room+-+Southland+Escape+Room/@50.9560935,-114.0529152,14z/data=!4m5!3m4!1s0x5371712e9fafffff:0x5826c2eebe655ac6!8m2!3d50.9621989!4d-114.0591674" target="_blank" rel="noopener noreferrer">View on Google maps</a></p>
+
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column -->
+					
+			</div> <!-- .et_pb_row --><div class="desktopEscapeRooms et_pb_row et_pb_row_6">
+				
+				<div class="et_pb_column et_pb_column_1_4  et_pb_column_7">
+				
+				<div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_center  et_pb_text_8">
+				
+
+<a href="mission-antarctica/"><img class="aligncenter wp-image-10311 size-full" src="https://www.thelockedroom.ca/wp-content/uploads/2015/03/09-Antarctic_Room_Poster_400x518_WEB.jpg" alt="WEB_Mission-Antarctic_Room_Poster" width="835" height="1080"></a>
+<h4 style="font-size: 18px; text-align: center; margin-top: 5px; padding-bottom: 0px;"><strong><span style="color: #00acc9;">MISSION: Antarctica</span></strong></h4>
+<p style="font-size: 18px; text-align: center;"><strong>2-6 PLAYERS</strong></p>
+
+
+			</div> <!-- .et_pb_text --><div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_center  et_pb_text_9">
+				
+
+<a style="font-size:16px; padding-bottom:4.8px !important;" class="et_pb_promo_button et_pb_button" href="/mission-antarctica/">Room Information</a>
+
+
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_4  et_pb_column_8">
+				
+				<div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_center  et_pb_text_10">
+				
+
+<a href="https://bookeo.com/lockedroom?type=3150XRREUX170C6437A7B"><img class="aligncenter size-full wp-image-13099" src="https://www.thelockedroom.ca/wp-content/uploads/2014/06/The_Locked_Room_Price-Is-Life-Poster.jpg" alt="Price Is Life Escape Room " width="400" height="518"></a>
+<h4 style="font-size: 18px; margin-top: 5px; padding-bottom: 0px; text-align: center;"><strong><span style="color: #00acc9;">The Price Is Life</span></strong></h4>
+<p style="font-size: 18px; text-align: center;"><strong>3-8 PLAYERS</strong></p>
+
+
+			</div> <!-- .et_pb_text --><div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_center  et_pb_text_11">
+				
+
+<a style="font-size:16px; padding-bottom:4.8px !important;" class="et_pb_promo_button et_pb_button" href="https://bookeo.com/lockedroom?type=3150XRREUX170C6437A7B">Room Information</a>
+
+
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_4  et_pb_column_9">
+				
+				<div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_center  et_pb_text_12">
+				
+
+<a href="great-train-heist/"><img class="aligncenter wp-image-7754 size-full" src="https://www.thelockedroom.ca/wp-content/uploads/2015/03/06-Train_Room_Poster_400x518_WEB.jpg" alt="Poster for The Great Train Heist Locked Room Located at the Calgary Southland Branch" width="400" height="518" /></a>
+<h4 style="font-size: 18px; margin-top: 5px; padding-bottom: 0px; text-align: center;"><strong><span style="color: #00acc9;">The Great Train Heist</span></strong></h4>
+<p style="font-size: 18px; text-align: center;"><strong>2-8 PLAYERS</strong></p>
+
+
+			</div> <!-- .et_pb_text --><div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_center  et_pb_text_13">
+				
+
+<a style="font-size:16px; padding-bottom:4.8px !important;" class="et_pb_promo_button et_pb_button" href="/great-train-heist/">Room Information</a>
+
+
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_4  et_pb_column_10">
+				
+				<div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_center  et_pb_text_14">
+				
+
+<a href="https://bookeo.com/lockedroom?type=3150MKWM3X153504BB9FE"><img class="aligncenter wp-image-7750 size-full" src="https://www.thelockedroom.ca/wp-content/uploads/2022/09/Mythical_Creatures_escape_room_poster.jpg" alt="Poster for the Mythical Creatures Locked Room Located at the Calgary Fairmount Dr. Location" width="400" height="518"></a>
+<h4 style="font-size: 18px; margin-top: 5px; padding-bottom: 0px; text-align: center;"><span style="color: #00acc9;"><strong>Mythical Creatures</strong></span></h4><p style="font-size: 18px; text-align: center;"><strong>3-6 PLAYERS</strong></p>
+
+
+			</div> <!-- .et_pb_text --><div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_center  et_pb_text_15">
+				
+
+<a style="font-size:16px; padding-bottom:4.8px !important;" class="et_pb_promo_button et_pb_button" href="https://bookeo.com/lockedroom?type=3150MKWM3X153504BB9FE">Room Information</a>
+
+
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column -->
+					
+			</div> <!-- .et_pb_row --><div class=" et_pb_row et_pb_row_7">
+				
+				<div class="et_pb_column et_pb_column_4_4  et_pb_column_11">
+				
+				<div class="et_pb_module et_pb_space et_pb_divider et_pb_divider_0 et-hide-mobile"></div><div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_center  et_pb_text_16">
+				
+<h2 style="margin-top: 30px;">Calgary Southeast</h2>
+<h3 style="margin: 0; padding: 0;">#191 5330 72 AVE SE</h3>
+<p><a href="https://www.google.ca/maps/place/The+Locked+Room+escape+room+52nd+st/@50.9874707,-113.9572016,14.75z/data=!4m5!3m4!1s0x53717a3b5bd58eaf:0x1a2fc0d8ecea6cd6!8m2!3d50.9902755!4d-113.9573252" target="_blank" rel="noopener noreferrer">View on Google maps</a></p>
+
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column -->
+					
+			</div> <!-- .et_pb_row --><div class="desktopEscapeRooms et_pb_row et_pb_row_9">
+				
+				<div class="et_pb_column et_pb_column_1_4  et_pb_column_12">
+				
+				<div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_center  et_pb_text_17">
+				
+
+<a href="/forbidden-temple-3/"><img class="aligncenter wp-image-7747 size-full" src="https://www.thelockedroom.ca/wp-content/uploads/2015/03/12-Temple_Room_Poster_400x518_WEB.jpg" alt="Poster for the Forbidden Temple Locked Room Located at the Calgary SE Branch" width="400" height="518"></a>
+<h4 style="font-size: 18px; text-align: center; margin-top: 5px; padding-bottom: 0px;"><span style="color: #00acc9;"><strong>Forbidden Temple</strong></span></h4>
+<p style="font-size: 18px; text-align: center;"><strong>2-8 PLAYERS</strong></p>
+
+
+			</div> <!-- .et_pb_text --><div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_center  et_pb_text_18">
+				
+
+<a style="font-size:16px" class="et_pb_promo_button et_pb_button" href="/forbidden-temple-3/">Room Information</a>
+
+
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_4  et_pb_column_13">
+				
+				<div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_center  et_pb_text_19">
+				
+
+<a href="prison-break/"><img class="aligncenter wp-image-7752 size-full" src="https://www.thelockedroom.ca/wp-content/uploads/2015/03/10-Prison_Break_Room_Poster_400x518_WEB.jpg" alt="Poster for the Prison Break Locked Room Located at the Calgary SE Branch" width="400" height="518" /></a>
+<h4 style="margin-top: 5px; padding-bottom: 0px; font-size: 18px; text-align: center;"><span style="color: #00acc9;"><strong>Prison Break</strong></span></h4>
+<p style="font-size: 18px; text-align: center;"><strong>2-5 PLAYERS</strong></p>
+
+
+			</div> <!-- .et_pb_text --><div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_center  et_pb_text_20">
+				
+
+<a style="font-size:16px;" class="et_pb_promo_button et_pb_button" href="/prison-break/">Room Information</a>
+
+
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_4  et_pb_column_14">
+				
+				<div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_center  et_pb_text_21">
+				
+
+<a href="the-heist/"><img class="aligncenter wp-image-7755 size-full" src="https://www.thelockedroom.ca/wp-content/uploads/2015/03/11-Heist_Room_Poster_400x518_WEB.jpg" alt="Poster for The Heist Locked Room Located at the Calgary SE Branch" width="400" height="518" /></a>
+<h4 style="margin-top: 5px; padding-bottom: 0px; font-size: 18px; text-align: center;"><span style="color: #00acc9;"><strong>The Heist</strong></span></h4>
+<p style="font-size: 18px; text-align: center;"><strong>3-6 PLAYERS</strong></p>
+
+
+			</div> <!-- .et_pb_text --><div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_center  et_pb_text_22">
+				
+
+<a style="font-size:16px;" class="et_pb_promo_button et_pb_button" href="/the-heist/">Room Information</a>
+
+
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_4  et_pb_column_15">
+				
+				<div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_center  et_pb_text_23">
+				
+
+<a href="captivity-3/"><img class="aligncenter wp-image-7745 size-full" src="https://www.thelockedroom.ca/wp-content/uploads/2015/03/13-Captivity_Room_Poster_400x518_WEB.jpg" alt="Poster for the Captivity Locked Room Located at the Calgary SE Branch" width="400" height="518"></a>
+<h4 style="margin-top: 5px; padding-bottom: 0px; font-size: 18px; text-align: center;"><span style="color: #00acc9;"><strong>Captivity</strong></span></h4>
+<p style="font-size: 18px; text-align: center;"><strong>3-9 PLAYERS</strong></p>
+
+
+			</div> <!-- .et_pb_text --><div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_center  et_pb_text_24">
+				
+
+<a style="font-size:16px;" class="et_pb_promo_button et_pb_button" href="/captivity-3/">Room Information</a>
+
+
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column -->
+					
+			</div> <!-- .et_pb_row --><div class=" et_pb_row et_pb_row_10">
+				
+				<div class="et_pb_column et_pb_column_4_4  et_pb_column_16">
+				
+				<div class="et_pb_module et_pb_space et_pb_divider et_pb_divider_1 et-hide-mobile"></div><div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_center  et_pb_text_25">
+				
+<h2 style="margin-top: 30px;">Calgary Northeast</h2>
+<h3 style="margin: 0; padding: 0;">#15 2015 32 AVE NE</h3>
+<p><a href="https://www.google.ca/maps/place/The+Locked+Room+escape+room+32nd+Ave/@51.062287,-114.0304058,12.71z/data=!4m5!3m4!1s0x53716507a1674f33:0x7635ab7fad2678f7!8m2!3d51.080758!4d-114.0095" target="_blank" rel="noopener noreferrer">View on Google Maps</a></p>
+
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column -->
+					
+			</div> <!-- .et_pb_row --><div class="desktopEscapeRooms et_pb_row et_pb_row_12">
+				
+				<div class="et_pb_column et_pb_column_1_4  et_pb_column_17">
+				
+				<div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_center  et_pb_text_26">
+				
+
+<p><a href="gameover-an-8-bit-adventure"><img class="aligncenter wp-image-11913 size-full" src="https://www.thelockedroom.ca/wp-content/uploads/2015/03/02-Game_Over_Room_Poster_400x518_WEB.jpg" alt="" width="400" height="518" /></a></p><h4 style="margin-top: 5px; padding-bottom: 0px; font-size: 18px; text-align: center;"><span style="color: #00acc9;"><strong>Game Over</strong></span></h4><p style="font-size: 18px; text-align: center;"><strong>2-6 PLAYERS</strong></p>
+
+
+			</div> <!-- .et_pb_text --><div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_center  et_pb_text_27">
+				
+
+<a class="et_pb_promo_button et_pb_button" style="font-size: 16px; padding-bottom: 4.8px !important;" href="/gameover-an-8-bit-adventure/">Room Information</a>
+
+
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_4  et_pb_column_18">
+				
+				<div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_center  et_pb_text_28">
+				
+
+<p><a href="excalibur"><img class="aligncenter wp-image-11924 size-full" src="https://www.thelockedroom.ca/wp-content/uploads/2015/03/01-Excalibur_Room_Poster_400x518_WEB.jpg" alt="" width="400" height="518" /></a></p>
+<h4 style="margin-top: 5px; padding-bottom: 0px; font-size: 18px; text-align: center;"><span style="color: #00acc9;"><strong>Quest For Excalibur</strong></span></h4>
+<p style="font-size: 18px; text-align: center;"><strong>2-6 PLAYERS</strong></p>
+
+
+			</div> <!-- .et_pb_text --><div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_center  et_pb_text_29">
+				
+
+<a class="et_pb_promo_button et_pb_button" style="font-size: 16px; padding-bottom: 4.8px !important;" href="/excalibur/">Room Information</a>
+
+
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_4  et_pb_column_19">
+				
+				<div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_center  et_pb_text_30">
+				
+
+<p><a href="../quizzlers-revenge"><img class="aligncenter wp-image-11949 size-full" src="../wp-content/uploads/2014/06/04-Quizzler_Room_Poster_400x518_WEB.jpg" alt="" width="400" height="518" /></a></p>
+<h4 style="margin-top: 5px; padding-bottom: 0px; font-size: 18px; text-align: center;"><span style="color: #00acc9;"><strong>The Quizzler's Revenge</strong></span></h4>
+<p style="font-size: 18px; text-align: center;"><strong>3-9 PLAYERS</strong></p>
+
+
+			</div> <!-- .et_pb_text --><div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_center  et_pb_text_31">
+				
+
+<a class="et_pb_promo_button et_pb_button" style="font-size: 16px; padding-bottom: 4.8px !important;" href="/quizzlers-revenge/">Room Information</a>
+
+
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_4  et_pb_column_20">
+				
+				<div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_center  et_pb_text_32">
+				<p><img class="aligncenter wp-image-11933 size-full" src="wp-content/uploads/2023/11/03-Big_Picture_Room_Poster_8.5x11_DESIGN_File.jpg" alt="" width="400" height="518" /></p>
+<h4 style="margin-top: 5px; padding-bottom: 0px; font-size: 18px; text-align: center;"><span style="color: #00acc9;"><strong>SNEAK A PEEK</strong></span></h4>
+<p style="text-align: center;"><strong>4-6&nbsp;PLAYERS</strong></p>
+<p style="font-size: 18px; text-align: center;"><strong></strong></p>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column -->
+					
+			</div> <!-- .et_pb_row -->
+				
+			</div> <!-- .et_pb_section --><div class="et_pb_section evenPadding homepageYellowBorder et_pb_section_5 et_pb_with_background et_section_regular">
+				
+				
+					
+					<div class=" et_pb_row et_pb_row_13">
+				
+				<div class="et_pb_column et_pb_column_4_4  et_pb_column_21">
+				
+				<div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_center noMargin noPadding et_pb_text_33">
+				
+<h2 style="color: #000811;"><span class="nomobile">THE LOCKED ROOM </span>REVIEWS</h2>
+
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column -->
+					
+			</div> <!-- .et_pb_row -->
+				
+			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_fullwidth_section  et_pb_section_6 et_pb_with_background et_section_regular">
+				
+				
+					
+					<div class="et_pb_fullwidth_code et_pb_module  et_pb_fullwidth_code_0">
+				<h2 style="padding-top:35px; border-top:2px solid black; text-align:center;">Reviews</h2>
+			</div> <!-- .et_pb_fullwidth_code -->
+				
+			</div> <!-- .et_pb_section --><div class="et_pb_section  et_pb_section_7 et_pb_with_background et_section_regular">
+				
+				
+					
+					<div class=" et_pb_row et_pb_row_14">
+				
+				<div class="et_pb_column et_pb_column_4_4  et_pb_column_22">
+				
+				<div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_center  et_pb_text_34">
+				
+<p><a href="http://www.tripadvisor.ca/Attraction_Review-g154913-d7086137-Reviews-The_Locked_Room-Calgary_Alberta.html" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-6618" src="https://www.thelockedroom.ca/wp-content/uploads/2014/06/lockedroom_reviews.jpg" alt="Locked Room Reviews" width="473" height="239" srcset="https://www.thelockedroom.ca/wp-content/uploads/2014/06/lockedroom_reviews.jpg 473w, https://www.thelockedroom.ca/wp-content/uploads/2014/06/lockedroom_reviews-300x152.jpg 300w" sizes="(max-width: 473px) 100vw, 473px" /></a></p>
+
+			</div> <!-- .et_pb_text --><div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left  et_pb_text_35">
+				
+<div style="border-top: 8px solid #000811;"><img class="nomobile alignleft wp-image-3010 size-full" style="margin: 15px; margin-right: 30px;" src="https://thelockedroom.ca/wp-content/uploads/2014/08/MarkNgyuen.jpg" alt="MarkNgyuen" width="120" height="120" srcset="https://www.thelockedroom.ca/wp-content/uploads/2014/08/MarkNgyuen.jpg 200w, https://www.thelockedroom.ca/wp-content/uploads/2014/08/MarkNgyuen-150x150.jpg 150w, https://www.thelockedroom.ca/wp-content/uploads/2014/08/MarkNgyuen-157x157.jpg 157w" sizes="(max-width: 120px) 100vw, 120px" /></div>
+<p style="padding-top: 15px; font-size: 26px; line-height: 38px; margin-bottom: 0;"><span style="font-size: 42px; line-height: 38px;">&#8220;</span> Being <strong>LIVE</strong> and with a team of different people there is a true <strong>sense of tension</strong> and even suspense that you&#8217;ll <strong>never get on a home game system.&#8221;</strong></p>
+<p style="float: right; font-size: 16px; line-height: 20px; margin-bottom: 40px;">~ Mark Nguyen (Calgary, AB)</p>
+<div style="clear: both; border-top: 8px solid #000811;"><img class="nomobile alignright wp-image-3011 size-full" style="margin: 15px; margin-left: 40px;" src="https://thelockedroom.ca/wp-content/uploads/2014/08/SueFawkes.jpg" alt="SueFawkes" width="140" height="140" srcset="https://www.thelockedroom.ca/wp-content/uploads/2014/08/SueFawkes.jpg 200w, https://www.thelockedroom.ca/wp-content/uploads/2014/08/SueFawkes-150x150.jpg 150w, https://www.thelockedroom.ca/wp-content/uploads/2014/08/SueFawkes-157x157.jpg 157w" sizes="(max-width: 140px) 100vw, 140px" /></div>
+<p style="padding-top: 15px; font-size: 28px; line-height: 36px;"><span style="font-size: 42px; line-height: 38px;">&#8220;</span>&#8230;incredibly fun and challenging activity with 4 friends! Book a time slot as it&#8217;s a <strong>terrific hour of thinking, problem solving and game playing.&#8221;</strong></p>
+<p style="float: right; font-size: 16px; line-height: 20px; margin-bottom: 40px;">~ Sue Fawkes (Cochrane, AB)</p>
+<div style="clear: both; border-top: 8px solid #000811;"><img class="nomobile alignleft wp-image-3010 size-full" style="margin: 15px; margin-right: 30px;" src="https://thelockedroom.ca/wp-content/uploads/2014/08/AmandaChan.jpg" alt="Amanda Chan" width="120" height="120" /></div>
+<p style="padding-top: 15px; font-size: 26px; line-height: 38px; margin-bottom: 0;"><span style="font-size: 42px; line-height: 38px;">&#8220;</span>The decor is <strong>so awesome</strong> and just really gets you so involved in the game! I&#8217;ve done this type of escape room in Toronto and <strong>this by far is much more fun</strong>.. Gather up your friends and try it out!</p>
+<p style="float: right; font-size: 16px; line-height: 20px; margin-bottom: 40px;">~ Amanda Chan (Calgary, AB)</p>
+
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column -->
+					
+			</div> <!-- .et_pb_row --><div class=" et_pb_row et_pb_row_15">
+				
+				<div class="et_pb_column et_pb_column_4_4  et_pb_column_23">
+				
+				<div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_center  et_pb_text_36">
+				
+<p style="margin-bottom: 55px;"><a class="et_pb_button et_pb_promo_button" href="/bookings">Reserve A Locked Room Escape Room</a></p>
+
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column -->
+					
+			</div> <!-- .et_pb_row -->
+				
+			</div> <!-- .et_pb_section -->
+					</div> <!-- .entry-content -->
+
+				
+				</article> <!-- .et_pb_post -->
+
+			
+
+</div> <!-- #main-content -->
+
+
+
+
+
+
+
+
+			<footer id="main-footer">
+<!-- Start of thelockedroom Zendesk Widget script -->
+<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=60af38c1-b9d9-446b-b20c-3a968faf0f9c"> </script>
+<!-- End of thelockedroom Zendesk Widget script -->
+
+
+<div class="container">
+	<div id="footer-widgets" class="clearfix">
+	<div class="footer-widget"><div id="text-2" class="fwidget et_pb_widget widget_text">			<div class="textwidget"></div>
+		</div> <!-- end .fwidget --><div id="text-3" class="fwidget et_pb_widget widget_text">			<div class="textwidget"><div style="width:70%; margin-left:15%; margin-right:15%; margin-bottom:15px;"><a href="https://www.tripadvisor.ca/Attraction_Review-g154913-d7086137-Reviews-The_Locked_Room_Calgary_Northeast_Branch-Calgary_Alberta.html" target="_blank"><img src="/wp-content/uploads/2016/08/LockedRoomTripadvisor.png" style="width:100%"></a></div></div>
+		</div> <!-- end .fwidget --></div> <!-- end .footer-widget --><div class="footer-widget"><div id="text-4" class="fwidget et_pb_widget widget_text">			<div class="textwidget"><div class="navfooter">
+<h2><a href="/escape-rooms">INFORMATION</a></h2>
+<div class="navfootblock">
+<p style="padding-bottom:2px"><a href="/escape-rooms">WHAT IS AN ESCAPE ROOM?<span class="footarrow"> > </span></a></p>
+<p style="padding-bottom:2px"><a href="/Frequently-Asked-Questions">FAQ<span class="footarrow"> > </span></a></p>
+<p style="padding-bottom:2px"><a href="/blog">BLOG<span class="footarrow"> > </span></a></p>
+<p style="padding-bottom:2px"><a href="/press">IN THE PRESS<span class="footarrow"> > </span></a></p>
+<p style="padding-bottom:2px"><a href="/escape-room-franchise">FRANCHISE OPPORTUNITIES<span class="footarrow"> > </span></a></p>
+<p><a href="/escaperoomtheatre">THEATRICAL SHOWS<span class="footarrow"> > </span></a></p>
+</div>
+<h2 style="padding:0; margin:0; padding-bottom:6px;"><a href="/location">CALGARY LOCATIONS</a></h2>
+<div class="navfootblock">
+<p style="padding-bottom:2px"><a href="/northeast-calgary">CALGARY NE<span class="footarrow"> > </span></a></p>
+<p style="padding-bottom:2px"><a href="/calgary-southland">FAIRMOUNT DR<span class="footarrow"> > </span></a></p>
+<p><a href="/southeast-calgary">CALGARY SE<span class="footarrow"> > </span></a></p>
+<h2 style="padding:0; margin:0; padding-bottom:6px;">U.S. FRANCHISES</h2><p style="padding:0;margin:0;"><a href="https://www.lockedroomomaha.com" target="_blank">LOCKED ROOM OMAHA<span class="footarrow"> > </span></a></p></div>
+</div></div>
+		</div> <!-- end .fwidget --></div> <!-- end .footer-widget --><div class="footer-widget"><div id="text-5" class="fwidget et_pb_widget widget_text">			<div class="textwidget"><div class="navfooter">
+<h2><a href="/bookings">BOOKINGS</a></h2>
+<div class="navfootblock">
+<p style="padding-bottom:2px"><a href="/bookings">BOOK AN ESCAPE ROOM<span class="footarrow"> > </span></a></p>
+<p style="padding-bottom:2px"><a href ="/gift-card">PURCHASE A GIFT CARD<span class="footarrow"> > </span></a></p>
+<p><a href="/corporate-bookings">CORPORATE & PRIVATE EVENTS<span class="footarrow"> > </span></a></p></div>
+<h2><a href="/contact">CONNECT</a></h2><div class="navfootblock">
+<p><a href="/contact">CONTACT US <span class="footarrow"> > </span></a><div class="footnavemail"><a href="mailto:bookings@thelockedroom.ca">bookings@thelockedroom.ca</a></div>
+<div class="footnavfb"><a href="https://m.me/lockedroomcalgary" target="_blank" rel="noopener noreferrer">Message us on Facebook</a></div></span>
+</p>
+</div>
+</div>
+</div>
+		</div> <!-- end .fwidget --></div> <!-- end .footer-widget -->	</div> <!-- #footer-widgets -->
+</div>	<!-- .container --><div style="height:80px; background-color: #FDEE1D; width:100%;"><div class="footicons"><a href="http://www.facebook.com/lockedroomcalgary" target="_blank"><img class="footicon" src="/wp-content/uploads/2016/08/LockedRoomFacebook.png"></a><a href="http://www.twitter.com/lockedroomyyc" target="_blank"><img class="footicon" src="/wp-content/uploads/2016/08/LockedRoomTwitter.png"></a><a href="https://www.youtube.com/user/thelockedroomcanada" target="_blank"><img class="footicon" src="/wp-content/uploads/2016/08/LockedRoomYoutube.png"></a><a href="https://www.instagram.com/lockedroomYYC/" target="_blank"><img class="footicon" src="/wp-content/uploads/2016/08/LockedRoomInstagram.png"></a><a href="https://www.pinterest.com/lockedroomYYC/" target="_blank"><img class="footicon" src="/wp-content/uploads/2016/08/LockedRoomPinterest.png"></a><a href="https://www.linkedin.com/company/the-locked-room" target="_blank"><img class="footicon" src="/wp-content/uploads/2016/08/LockedRoomLinkedin.png"></a></div></div>
+<div style="height:80px; background-color: black; width:100%;"><p class="footcopyright">The Locked Room &#xA9; 2023   |   <a href="/privacy">Privacy</a>   |   <a href="/terms-conditions">Terms & Conditions</a></p></div>
+			</footer> <!-- #main-footer -->
+
+
+
+		</div> <!-- #et-main-area -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	</div> <!-- #page-container -->
+
+
+
+
+
+
+
+	<style type="text/css" id="et-builder-advanced-style">
+				
+.et_pb_image_3 { padding-bottom:0px; margin-bottom:0px !important; text-align: center; }
+.et_pb_text_6 { font-size: 20px; }
+.et_pb_section_4 { padding-top:0px !important; }
+.et_pb_section_4.et_pb_section { background-color:#ffffff !important; }
+.et_pb_text_5 { margin-bottom:0 !important; }
+.et_pb_row_3 { margin-bottom:0px; }
+.et_pb_text_1 { font-weight: bold;font-size: 22px; }
+.et_pb_image_0 { margin-left: 0; }
+.et_pb_image_1 { margin-left: 0; }
+.et_pb_image_2 { margin-left: 0; }
+.et_pb_divider_0:before { border-top-color: #1c1c1c; }
+.et_pb_divider_0 { height: 2px; }
+.et_pb_section_6.et_pb_section { background-color:#ffffff !important; }
+.et_pb_section_7 { padding-top:0px !important; }
+.et_pb_section_7.et_pb_section { background-color:#ffffff !important; }
+.et_pb_text_36 { font-size: 20px; }
+.et_pb_section_6 { padding-top:0px !important; margin-bottom:0px !important; margin-bottom:0px !important; }
+.et_pb_section_5.et_pb_section { background-color:#fff000 !important; }
+.et_pb_divider_1:before { border-top-color: #1c1c1c; }
+.et_pb_divider_1 { height: 2px; }
+.et_pb_section_5 { margin-bottom:20px; }
+.et_pb_row_1 { background-color:#000000; }
+.et_pb_row_1.et_pb_row { padding-top: 20px; }
+.et_pb_fullwidth_header_0.et_pb_fullwidth_header .et_pb_fullwidth_header_overlay { background-color: rgba(0,0,0,0.35); }
+.et_pb_section_1 { margin:10 !important; padding:0 !important; }
+.et_pb_section_1.et_pb_section { background-color:#fdee1d !important; }
+.et_pb_text_0 h1 { font-size: 52px; }
+.et_pb_fullwidth_header_0 .header-content .et_pb_fullwidth_header_subhead { margin-bottom:20px; }
+.et_pb_fullwidth_header_0 .et_pb_fullwidth_header_container { width:100%; }
+.et_pb_fullwidth_header_0.et_pb_fullwidth_header .header-content h1 { font-size: 36px; }
+.et_pb_fullwidth_header_0.et_pb_fullwidth_header .et_pb_fullwidth_header_subhead { font-size: 28px; }
+.et_pb_fullwidth_header_0.et_pb_fullwidth_header p { font-size: 20px; }
+.et_pb_fullwidth_header_0 { width:100%; }
+.et_pb_text_0 { font-size: 22px; }
+.et_pb_section_2 { background-image:url(https://www.thelockedroom.ca/wp-content/uploads/2014/06/Locked_Room_Homepage_BG.jpg); }
+.et_pb_fullwidth_header_1 .header-content .et_pb_fullwidth_header_subhead { margin-bottom:20px; }
+.et_pb_fullwidth_header_1.et_pb_fullwidth_header .et_pb_fullwidth_header_overlay { background-color: rgba(0,0,0,0.35); }
+.et_pb_section_3 { margin:0 !important; padding-top:25px !important; }
+.et_pb_section_3.et_pb_section { background-color:#000000 !important; padding-top: 25px; }
+.et_pb_fullwidth_header_1 .et_pb_fullwidth_header_container { width:100%; }
+.et_pb_fullwidth_header_1 { width:100%; }
+.et_pb_fullwidth_header_1.et_pb_fullwidth_header .header-content h1 { font-size: 36px; }
+.et_pb_fullwidth_header_1.et_pb_fullwidth_header .et_pb_fullwidth_header_subhead { font-size: 28px; }
+.et_pb_fullwidth_header_1.et_pb_fullwidth_header p { font-size: 20px; }
+.et_pb_section_0 { background-image:url(https://www.thelockedroom.ca/wp-content/uploads/2014/06/Locked_Room_Homepage_BG.jpg); }
+
+@media only screen and ( min-width: 981px ) {
+	.et_pb_section_6 { display: none !important; }
+	.et_pb_section_2 { display: none !important; }
+	.et_pb_section_2.et_pb_section { padding-top: 0px; }
+	.et_pb_section_0.et_pb_section { padding-top: 0px; }
+}
+
+@media only screen and ( max-width: 980px ) {
+	.et_pb_fullwidth_header_1.et_pb_fullwidth_header .header-content h1 { font-size: 24px; }
+	.et_pb_fullwidth_header_1.et_pb_fullwidth_header .et_pb_fullwidth_header_subhead { font-size: 20px; }
+	.et_pb_fullwidth_header_1.et_pb_fullwidth_header p { font-size: 14px; }
+	.et_pb_text_0 { font-size: 20px; }
+	.et_pb_text_0 h1 { font-size: 30px; }
+	.et_pb_fullwidth_header_0.et_pb_fullwidth_header .et_pb_fullwidth_header_subhead { font-size: 20px; }
+	.et_pb_fullwidth_header_0.et_pb_fullwidth_header p { font-size: 14px; }
+	.et_pb_fullwidth_header_0.et_pb_fullwidth_header .header-content h1 { font-size: 24px; }
+}
+
+@media only screen and ( min-width: 768px ) and ( max-width: 980px ) {
+	.et_pb_section_6 { display: none !important; }
+	.et_pb_section_2 { display: none !important; }
+}
+
+@media only screen and ( max-width: 767px ) {
+	.et_pb_section_5 { display: none !important; }
+	.et_pb_section_4 { display: none !important; }
+	.et_pb_section_2 { display: none !important; }
+}
+			</style><style type="text/css" id="et-builder-page-custom-style">
+				 .et_pb_bg_layout_dark { color: #ffffff !important; } .page.et_pb_pagebuilder_layout #main-content { background-color: rgba(255,255,255,0); } .et_pb_section { background-color: #ffffff; }
+			</style><script type='text/javascript' src='https://www.thelockedroom.ca/wp-content/themes/Divi/includes/builder/scripts/frontend-builder-global-functions.js?ver=3.0.34'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.thelockedroom.ca\/wp-json\/","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.thelockedroom.ca/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.8'></script>
+<script type='text/javascript' src='https://www.thelockedroom.ca/wp-includes/js/comment-reply.min.js?ver=4.7.27'></script>
+<script type='text/javascript' src='https://www.thelockedroom.ca/wp-content/themes/Divi/includes/builder/scripts/jquery.mobile.custom.min.js?ver=3.0.34'></script>
+<script type='text/javascript' src='https://www.thelockedroom.ca/wp-content/themes/Divi/js/custom.js?ver=3.0.34'></script>
+<script type='text/javascript' src='https://www.thelockedroom.ca/wp-content/themes/Divi/includes/builder/scripts/jquery.fitvids.js?ver=3.0.34'></script>
+<script type='text/javascript' src='https://www.thelockedroom.ca/wp-content/themes/Divi/includes/builder/scripts/waypoints.min.js?ver=3.0.34'></script>
+<script type='text/javascript' src='https://www.thelockedroom.ca/wp-content/themes/Divi/includes/builder/scripts/jquery.magnific-popup.js?ver=3.0.34'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var et_pb_custom = {"ajaxurl":"https:\/\/www.thelockedroom.ca\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/www.thelockedroom.ca\/wp-content\/themes\/Divi\/images","builder_images_uri":"https:\/\/www.thelockedroom.ca\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"f8de1d3780","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"8d89a2bdd3","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","is_builder_plugin_used":"","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","is_ab_testing_active":"","page_id":"78","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.thelockedroom.ca/wp-content/themes/Divi/includes/builder/scripts/frontend-builder-scripts.js?ver=3.0.34'></script>
+<script type='text/javascript' src='https://www.thelockedroom.ca/wp-includes/js/wp-embed.min.js?ver=4.7.27'></script>
+</body>
+
+
+
+</html>
